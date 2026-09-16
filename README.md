@@ -1,6 +1,6 @@
 # 🧬 # 📊 Hi, I'm Lais Maciel
 
-I am a **Data Analyst** and **Biomedical Scientist** specialized in transforming complex information into strategic insights. With a strong background in **Python, R, and SQL**, I focus on data manipulation, process automation, and analytical intelligence.
+I am a **Bioinformatician** and **Biomedical Scientist** specialized in transforming complex information into strategic insights. With a strong background in **Python, R, and SQL**, I focus on data manipulation, process automation, and analytical intelligence.
 
 Currently pursuing a **Master's degree in Genetics and Molecular Biology**, I combine the rigor of scientific methodology with modern data engineering tools to build efficient and scalable solutions.
 

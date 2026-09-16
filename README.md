@@ -30,42 +30,40 @@ computational approaches applied to biomedical research**.
 
 ---
 
-## 🛠️ Technical Stack  
-  
-### Programming & Data Analysis  
-  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,bash&perline=8" />
-</p>
+## 🛠️ Technical Stack
+
+### Programming & Data Analysis
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,r,bash,postgres,mysql&perline=8" />
 </p>
-  
-- **Python:** Pandas, NumPy, Biopython  
-- **R:** DESeq2, ggplot2, dplyr  
-- **Bash/Linux:** command-line workflows and automation  
-- **SQL:** data querying and manipulation  
-  
-### 🧬 Bioinformatics  
-  
+
+- **Python:** Pandas, NumPy, Biopython
+- **R:** DESeq2, ggplot2, dplyr
+- **Bash/Linux:** command-line workflows and automation
+- **SQL:** data querying and manipulation
+
+
+### 🧬 Bioinformatics
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux&perline=8" />
 </p>
 
-- FastQC / MultiQC  
-- fastp  
-- STAR  
-- SAMtools  
-- BWA  
-- Bowtie2  
-- GATK / BCFtools  
-- PLINK  
-- FASTA / FASTQ  
-- BAM / VCF / BED  
-  
-### ⚙️ Workflows & Reproducibility  
-  
+- FastQC / MultiQC
+- fastp
+- STAR
+- SAMtools
+- BWA
+- Bowtie2
+- GATK / BCFtools
+- PLINK
+- FASTA / FASTQ
+- BAM / VCF / BED
+
+
+### ⚙️ Workflows & Reproducibility
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=8" />
 </p>
@@ -75,15 +73,16 @@ computational approaches applied to biomedical research**.
   <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Mamba-44A833?style=for-the-badge" />
 </p>
-  
-- Nextflow  
-- Docker  
-- Git / GitHub  
-- VS Code  
-- Linux / WSL  
-- Conda / Mamba  
-- Reproducible computational workflows  
+
+- Nextflow
+- Docker
+- Git / GitHub
+- VS Code
+- Linux / WSL
+- Conda / Mamba
+- Reproducible computational workflows
 - Workflow documentation and version control  
+
 ---
 
 ## 📊 What I Build

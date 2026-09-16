@@ -30,47 +30,80 @@ computational approaches applied to biomedical research**.
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical Stack  
+  
+### Programming & Data Analysis  
+  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,bash&perline=8" />
+</p>
 
-### Programming & Data Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/DESeq2-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
+  
+- **Python:** Pandas, NumPy, Biopython  
+- **R:** DESeq2, ggplot2, dplyr  
+- **Bash/Linux:** command-line workflows and automation  
+- **SQL:** data querying and manipulation  
+  
+### 🧬 Bioinformatics  
+  
+<p align="left">
+  <img src="https://img.shields.io/badge/FASTQ-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FASTA-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastQC-Quality%20Control-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MultiQC-Quality%20Control-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/fastp-Preprocessing-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STAR-RNA--seq-4B5563?style=for-the-badge" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/SAMtools-Genomics-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BWA-Alignment-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bowtie2-Alignment-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GATK-Variant%20Analysis-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BCFtools-Variant%20Analysis-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PLINK-Genetic%20Analysis-4B5563?style=for-the-badge" />
+</p>
+  
+- FastQC / MultiQC  
+- fastp  
+- STAR  
+- SAMtools  
+- BWA  
+- Bowtie2  
+- GATK / BCFtools  
+- PLINK  
+- FASTA / FASTQ  
+- BAM / VCF / BED  
+  
+### ⚙️ Workflows & Reproducibility  
+  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&perline=8" />
+</p>
 
-- **Python:** Pandas, NumPy, Biopython
-- **R:** DESeq2, ggplot2, dplyr
-- **Bash/Linux:** command-line workflows and automation
-- **SQL:** data querying and manipulation
-
-### 🧬 Bioinformatics
-
-![FastQC](https://img.shields.io/badge/FastQC-Quality%20Control-4B5563?style=for-the-badge)
-![STAR](https://img.shields.io/badge/STAR-RNA--seq-4B5563?style=for-the-badge)
-![SAMtools](https://img.shields.io/badge/SAMtools-Genomics-4B5563?style=for-the-badge)
-![GATK](https://img.shields.io/badge/GATK-Variant%20Analysis-4B5563?style=for-the-badge)
-
-- FastQC / MultiQC
-- fastp
-- STAR
-- SAMtools
-- BWA
-- Bowtie2
-- GATK / BCFtools
-- PLINK
-- FASTA / FASTQ
-- BAM / VCF / BED
-
-### ⚙️ Workflows & Reproducibility
-
-- Nextflow
-- Docker
-- Git / GitHub
-- Linux / WSL
-- Conda / Mamba
-- Reproducible computational workflows
-- Workflow documentation and version control
+<p align="left">
+  <img src="https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mamba-44A833?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+  
+- Nextflow  
+- Docker  
+- Git / GitHub  
+- Linux / WSL  
+- Conda / Mamba  
+- Reproducible computational workflows  
+- Workflow documentation and version control  
 
 ---
 

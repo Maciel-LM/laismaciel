@@ -39,13 +39,7 @@ computational approaches applied to biomedical research**.
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/DESeq2-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy&perline=8" />
 </p>
   
 - **Python:** Pandas, NumPy, Biopython  
@@ -56,23 +50,9 @@ computational approaches applied to biomedical research**.
 ### 🧬 Bioinformatics  
   
 <p align="left">
-  <img src="https://img.shields.io/badge/FASTQ-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FASTA-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastQC-Quality%20Control-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MultiQC-Quality%20Control-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/fastp-Preprocessing-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STAR-RNA--seq-4B5563?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linux&perline=8" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SAMtools-Genomics-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BWA-Alignment-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bowtie2-Alignment-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GATK-Variant%20Analysis-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BCFtools-Variant%20Analysis-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PLINK-Genetic%20Analysis-4B5563?style=for-the-badge" />
-</p>
-  
 - FastQC / MultiQC  
 - fastp  
 - STAR  
@@ -87,24 +67,23 @@ computational approaches applied to biomedical research**.
 ### ⚙️ Workflows & Reproducibility  
   
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=8" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Mamba-44A833?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
   
 - Nextflow  
 - Docker  
 - Git / GitHub  
+- VS Code  
 - Linux / WSL  
 - Conda / Mamba  
 - Reproducible computational workflows  
 - Workflow documentation and version control  
-
 ---
 
 ## 📊 What I Build

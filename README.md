@@ -87,13 +87,12 @@ computational approaches applied to biomedical research**.
 
 ## 📊 What I Build
 
-I am interested in developing computational tools and reproducible workflows
-that transform biological data into interpretable results.
+I build computational tools and reproducible workflows that transform biological
+data into interpretable results.
 
 My projects typically combine:
 
-**Biological question → Data → Computational workflow → Analysis → Visualization
-→ Biological interpretation**
+**Biological question → Data → Computational workflow → Analysis → Visualization → Biological interpretation**
 
 ---
 
